@@ -1,0 +1,8 @@
+classes=10
+train  = data/mnist.train.list
+valid  = data/mnist.valid.list
+test  = data/mnist.test.list
+backup = /backup
+labels = data/mnist.labels.list
+names  = data/mnist.names.list
+top = 5
